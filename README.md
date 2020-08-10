@@ -132,6 +132,7 @@ with open(dir_path + '/data/ownthink_v2.csv', 'r', encoding='utf-8') as ownfile:
     wc.to_file(dir_path + '/data/record_image/propCiyunPicture.png')
 ```
 
+![属性词云](https://www.zq-ai.com/static/img/kgqa/wordcloud_props.png)
 
 
 
